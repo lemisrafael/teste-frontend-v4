@@ -1,3 +1,8 @@
+Aplicação feita usando Vue 2, VueX e Bootstrap
+
+para rodar => npm rum serve
+
+
 # 🏆 Teste Frontend
 
 ![Aiko](img/aiko.png)
