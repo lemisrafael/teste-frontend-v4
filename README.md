@@ -2,6 +2,8 @@ Aplicação feita usando Vue 2, VueX e Bootstrap
 
 para rodar => npm rum serve
 
+Video => https://drive.google.com/file/d/1QpJzJr8vhIo82GeplgkihOnyp7rzlX2T/view
+
 
 # 🏆 Teste Frontend
 
